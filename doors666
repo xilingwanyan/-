@@ -144,7 +144,7 @@ CharTab:AddSlider({
 	Name = "速度",
 	Min = 0,
 	Max = 50,
-	Default = 5,
+	Default = 1,
 	Color = Color3.fromRGB(255,255,255),
 	Increment = 1,
 	Callback = function(Value)
