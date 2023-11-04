@@ -1,5 +1,5 @@
 loadstring(game:
-HttpGet(('https://raw.githubusercontent.com/xilingwanyan/-/main/doors666')))()
+HttpGet(('https://raw.githubusercontent.com/xilingwanyan/-/main/men2')))()
 loadstring(game:
 HttpGet("https://raw.githubusercontent.com/GamingScripter/Darkrai-X/main/Games/Doors"))()
 loadstring(game:
