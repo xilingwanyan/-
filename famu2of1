@@ -1,0 +1,9 @@
+CoreGui:SetCore("SendNotification", { 
+     Title = "溪灵万言", 
+     Text = "伐木2of1", 
+     Duration = 10,  
+ })
+loadstring(game:
+HttpGet(('https://raw.githubusercontent.com/xilingwanyan/-/main/fly')))()
+loadstring(game:
+HttpGet(('https://raw.githubusercontent.com/xilingwanyan/-/main/famuscbai')))()
